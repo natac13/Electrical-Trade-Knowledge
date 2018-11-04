@@ -1,0 +1,26 @@
+{
+    "root": "./",
+    "title": "OnJobPractices",
+    "author": "Sean Paul Campbell",
+    "language": "en",
+    "description": "My on the job practices that I wish to remember and record.",
+    "plugins": [
+        "katex",
+        "livereload",
+        "search",
+        "favicon",
+        "flow",
+        "fontsettings"
+    ],
+    "pluginsConfig": {
+        "favicon": {
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico"
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    }
+}
