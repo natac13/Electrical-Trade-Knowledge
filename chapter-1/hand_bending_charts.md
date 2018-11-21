@@ -9,14 +9,6 @@
 |1"   (25.4mm)  |3/4" (19.1mm)|8" (203mm) |
 |1 1/4" (31.8mm)|1"   (25.4mm)|12" (305mm)|
 
-1. Measure the distance to the back of the 90&deg; bend.
-2. Deduct the 'Take Up' from the chart from your measurment in step 1.
-3. Place a pencil mark at the distacne found in step 2 on the conduit.
-4. Line up your mark with the arrow on the bending shoe.
-5. Put a slight bend in the conduit with your hands and upper body. This will help secure the conduit in the bender.
-6. Put the shoe and conduit on the floor to use foot pressure to complete the bend.
-7. If precision is nessassary then use a level to set the bend at 90&deg;
-
 ### Offsets
 
 |Angle of Bend  |Mulitpiler  |Shrinkage / inch of offset depth|
