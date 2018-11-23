@@ -2,12 +2,12 @@
 
 ### 90&deg;
 
-|EMT Pipe Size  |Rigid Pipe   |Take up    |
-|---------------|-------------|-----------|
-|1/2" (12.7mm)  |N/A          |5" (127mm) |
-|3/4" (19.1mm)  |1/2" (12.7mm)|6" (153mm) |
-|1"   (25.4mm)  |3/4" (19.1mm)|8" (203mm) |
-|1 1/4" (31.8mm)|1"   (25.4mm)|12" (305mm)|
+|EMT Pipe Size      |Rigid Pipe   |Take up / Deduction   |
+|-------------------|-------------|----------------------|
+|**1/2"** (12.7mm)  |N/A          |**5"** (127mm)        |
+|**3/4"** (19.1mm)  |1/2" (12.7mm)|**6"** (153mm)        |
+|**1"** (25.4mm)    |3/4" (19.1mm)|**8"** (203mm)        |
+|**1 1/4"** (31.8mm)|1"   (25.4mm)|**12"** (305mm)       |
 
 ### Offsets
 
@@ -57,8 +57,8 @@
 |3" (76mm)           |3/4" (19.1mm)  |6" (152mm)                |
 |4" (102mm)          |1"   (25.4mm)  |8" (203mm)                |
 ## Bending the 3-point saddle.
-### 1. Measure to center of obstruction.
-### 2. Calculate shrink based off the height of the obstruction.
-### 3. Add shrink to step 1. and mark the center bend.
-### 4. Mark return bends based off chart's 'Distance off Center Mark'.
-### 5. Center bend aligned to notched and return bends aligned to the arrow on the shoe.
+1. Measure to center of obstruction.
+2. Calculate shrink based off the height of the obstruction.
+3. Add shrink to step 1. and mark the center bend.
+4. Mark return bends based off chart's 'Distance off Center Mark'.
+5. Center bend aligned to notched and return bends aligned to the arrow on the shoe.
