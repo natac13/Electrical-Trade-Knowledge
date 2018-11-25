@@ -11,6 +11,7 @@
   - [Clothing](chapter-2/clothing.md)
   - [Journal Log](chapter-2/journal.md)
 * [Chapter 3 - General Work Tips](chapter-3/README.md)
+  - [PVC Work](chapter-3/pvc.md)
   - [Panel Wiring](chapter-3/panel_wiring.md)
   - [Fittings](chapter-3/fittings.md)
   - [Surface Mounting](chapter-3/surface_mount.md)

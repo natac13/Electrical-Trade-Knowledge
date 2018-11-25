@@ -1,9 +1,9 @@
 {
     "root": "./",
-    "title": "OnJobPractices",
+    "title": "Electical Trade Knowledge",
     "author": "Sean Paul Campbell",
     "language": "en",
-    "description": "My on the job practices that I wish to remember and record.",
+    "description": "My cumulative knowledge in the electrical trade. Knowledge I have found important, stuff I had to learn the hard way; all information that I would share with an apprentice.",
     "plugins": [
         "katex",
         "livereload",
