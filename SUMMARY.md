@@ -17,3 +17,7 @@
   - [Surface Mounting](chapter-3/surface_mount.md)
 * [Chapter 4 - Fire Alarm](chapter-4/README.md)
   - [Troubleshooting Ground Faults and Shorts](chapter-4/troubleshooting-groundfaults.md)
+* [Chapter 5 - Calculation, On Site](chapter-5/README.md)
+  - [Phase Color From Circuit Number](chapter-5/phase_color.md)
+  - [Pythagorean Theorem](chapter-5/pythagorean_theorem.md)
+  - [Light Spacing](chapter-5/spacing_lights.md)
